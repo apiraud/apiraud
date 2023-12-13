@@ -14,5 +14,3 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub](icons/github.png)](https://github.com/apiraud)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/amelie-piraud/)
-
- https://tryhackme.com/badge/764485
